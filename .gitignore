@@ -1,0 +1,15 @@
+vendor/etc/camera/st_license.lic
+vendor/camera/mimoji/model2.zip
+.git/objects/pack/pack-048036c7ed77d96d7a9f7b957d5f5e2bed62cf15.pack
+boot.img
+product/app/WebViewGoogle/WebViewGoogle.apk
+product/priv-app/GmsCore/GmsCore.apk
+modem.img
+system_ext/priv-app/Settings/Settings.apk
+system_ext/apex/com.android.vndk.v30.apex
+system/system/app/VoiceAssist/VoiceAssist.apk
+system/system/priv-app/MIUIGallery/MIUIGallery.apk
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
+system/system/priv-app/MIUIVideo/MIUIVideo.apk
+system/system/priv-app/MIUIBrowser/MIUIBrowser.apk
+system/system/priv-app/MIUIMusic/MIUIMusic.apk
